@@ -11,7 +11,10 @@ To run this ChatBot, you need to follow these steps:
 
 1. Ensure you have Python installed on your system.
 2. Clone this repository to your local machine.
-3. Install the required Python packages by running:
+3. Install the required Python packages by running
+```
+pip install -r requirements.txt
+```
 4. Set up your Google API key by creating a `.env` file and adding your key:
 
 ## Usage
