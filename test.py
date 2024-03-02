@@ -71,7 +71,7 @@ def response_generator(user_question):
     for word in response.split():
         yield word + " "
 
-st.set_page_config(page_title="UjjwalDeepXIXC", page_icon=r"dATA\dark-Square-logo-inzint-150x150.png", layout="centered", initial_sidebar_state="auto", menu_items=None)
+st.set_page_config(page_title="UjjwalDeepXIXC", page_icon=r"logo.png", layout="centered", initial_sidebar_state="auto", menu_items=None)
 st.header(":violet[Chat]Bot",divider='rainbow', help = "This bot is designed by Ujjwal Deep to address all of your questions hehe")
 st.subheader("Hello! There, How can I help you Today- 👩‍💻")
 st.caption(":violet[what a] :orange[good day] :violet[it is] :violet[today] :blue[ᓚᘏᗢ]")
