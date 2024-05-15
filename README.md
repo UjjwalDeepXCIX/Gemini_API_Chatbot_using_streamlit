@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ## Usage
 Once you have installed the necessary dependencies and set up your Google API key, you can run the application using Streamlit. Execute the following command:
 ```
-Streamlit run chatbot.py
+Streamlit run test.py
 ```
 This command will start the Streamlit server, and you can access the application in your web browser.
 
