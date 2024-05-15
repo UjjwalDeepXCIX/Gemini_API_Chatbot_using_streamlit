@@ -15,7 +15,7 @@ os.getenv("GOOGLE_API_KEY")
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 # Set path to your PDF file
-PDF_PATH = "E:\GIT\Gemini_chatbot\Data\data.pdf"
+PDF_PATH = "path to your pdf here"
 
 def get_pdf_text(pdf_path):
     text = ""
